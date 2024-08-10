@@ -20,14 +20,14 @@ function HomePage() {
         //     text: "A Fullstack web developer.",
         // },
         {
-            text: "Let&#39;s explore my work.",
+            text: "Let's explore my work.",
             className: "text-creamyYellow-900 dark:text-creamyYellow-200 font-bold",
         },
     ];
     
     return (
         <div className='min-h-screen w-full flex flex-col items-center justify-center h-[40rem] '>
-            <TypewriterEffectSmooth words={words} className='absolute top-1/4 z-50' cursorClassName='bg-creamyYellow-900 pt-4'/>
+            <TypewriterEffectSmooth words={words} className='absolute top-1/4 z-40' cursorClassName='bg-creamyYellow-900 pt-4'/>
             <div className='min-h-screen w-full flex flex-row justify-center items-center '>
                 <div className='min-h-screen w-1/2 bg-creamyYellow-100 '>
                     <div className='shadow-2xl shadow-creamyYellow-600  h-[640px] my-16 ml-16 bg-creamyYellow-100 flex flex-col justify-end items-center'>
