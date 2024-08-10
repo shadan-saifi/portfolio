@@ -25,9 +25,9 @@ function contact() {
                 >
   
                     <Highlight className="text-creamyYellow-900 dark:text-white">
-                        Let's Connect!
+                        Let&#39;s Connect!
                     </Highlight>
-                    <div className="text-xl font-semibold text-creamyYellow-900 pt-8">Whether you're interested in collaborating on exciting projects, have a question, or just want to chat about web development, I'm always open to new opportunities and connections.</div>
+                    <div className="text-xl font-semibold text-creamyYellow-900 pt-8">Whether you&#39;re interested in collaborating on exciting projects, have a question, or just want to chat about web development, I&#39;m always open to new opportunities and connections.</div>
 
                     <div className="text-xl font-semibold text-creamyYellow-900 flex flex-col justify-start items-start mt-12">
                         <Highlight className="text-creamyYellow-900 dark:text-white">
@@ -45,9 +45,9 @@ function contact() {
                         Why Reach Out?
                         </Highlight>
                         <ul className="list-inside list-disc flex flex-col justify-start items-start">
-                            <li><b>Collaborate:</b>  I'm eager to work on innovative projects that make a difference.</li>
-                            <li><b>Consult:</b> Need advice on a web development challenge? I'm here to help.</li>
-                            <li><b>Connect:</b>Let's network and explore ideas together.</li>
+                            <li><b>Collaborate:</b>  I&#39;m eager to work on innovative projects that make a difference.</li>
+                            <li><b>Consult:</b> Need advice on a web development challenge? I&#39;m here to help.</li>
+                            <li><b>Connect:</b>Let&#39;s network and explore ideas together.</li>
                         </ul>
                     </div>
                     <div className="text-2xl text-creamyYellow-900 my-8">Looking forward to hear from you!</div>

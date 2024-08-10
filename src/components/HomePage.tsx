@@ -20,7 +20,7 @@ function HomePage() {
         //     text: "A Fullstack web developer.",
         // },
         {
-            text: "Let us explore my work.",
+            text: "Let&#39;s explore my work.",
             className: "text-creamyYellow-900 dark:text-creamyYellow-200 font-bold",
         },
     ];

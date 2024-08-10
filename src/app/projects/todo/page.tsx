@@ -14,7 +14,7 @@ function todo() {
             <div className="text-creamyYellow-900 dark:text-creamyYellow-200 pt-48 p-16">
                 <div className='font-bold text-5xl text-creamyYellow-900 dark:text-creamyYellow-200 pb-8'>Task Manager</div>
                 <p>
-                    Introducing your <b>Task Manager</b> – the ultimate tool to stay organized and productive. This intuitive web app allows you to effortlessly manage your tasks and to-dos with ease. Whether you're planning your day or organizing a long-term project, the Task Manager makes it simple to <b>add new tasks, edit existing ones, mark them as completed, or delete them when no longer needed</b>. With full <b>CRUD</b> (Create, Read, Update, Delete) capabilities, you have complete control over your task list, ensuring that nothing slips through the cracks. Simplify your workflow and stay on top of your responsibilities with this powerful Task Manager.
+                    Introducing your <b>Task Manager</b> – the ultimate tool to stay organized and productive. This intuitive web app allows you to effortlessly manage your tasks and to-dos with ease. Whether you&#39;re planning your day or organizing a long-term project, the Task Manager makes it simple to <b>add new tasks, edit existing ones, mark them as completed, or delete them when no longer needed</b>. With full <b>CRUD</b> (Create, Read, Update, Delete) capabilities, you have complete control over your task list, ensuring that nothing slips through the cracks. Simplify your workflow and stay on top of your responsibilities with this powerful Task Manager.
                 </p>
                 <div className='py-4 text underline'>
                     Click on the image to open the project.

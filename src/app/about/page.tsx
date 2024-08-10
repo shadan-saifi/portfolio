@@ -8,15 +8,15 @@ function About() {
                 <div className='min-h-screen shadow-2xl shadow-creamyYellow-600  my-16 ml-16 bg-creamyYellow-100'>
                     <div className=' text-creamyYellow-900 pt-28 p-8 my-auto'>
                         <p className=' text-wrap text-start indent-10 leading-loose'>
-                            Hi there! I'm Shadan Saifi, a web developer with a knack for creating engaging digital experiences using the MERN stack.
+                            Hi there! I&#39;m Shadan Saifi, a web developer with a knack for creating engaging digital experiences using the MERN stack.
                         </p>
                         <br />
                         <p className=' text-wrap text-start indent-10 leading-loose'>
-                            From earning a Bachelor's in Civil Engineering and a Master's in Sociology to transitioning into a self-taught web developer, my journey is marked by adaptability and a relentless passion for technology. I thrive on the challenge of learning new skills and applying them to innovative projects.
+                            From earning a Bachelor&#39;s in Civil Engineering and a Master&#39;s in Sociology to transitioning into a self-taught web developer, my journey is marked by adaptability and a relentless passion for technology. I thrive on the challenge of learning new skills and applying them to innovative projects.
                         </p>
                         <br />
                         <p className=' text-wrap text-start indent-10 leading-loose'>
-                            I specialize in both frontend and backend development, crafting user-friendly interfaces and robust server-side functionalities. Whether it's building a sophisticated video-streaming app with secure authentication and interactive features or cloning the sleek design of Netflix's UI, I am dedicated to bringing ideas to life through code.
+                            I specialize in both frontend and backend development, crafting user-friendly interfaces and robust server-side functionalities. Whether it&#39;s building a sophisticated video-streaming app with secure authentication and interactive features or cloning the sleek design of Netflix&#39;s UI, I am dedicated to bringing ideas to life through code.
                         </p>
                         <br />
                         <p className=' text-wrap text-start indent-10 leading-loose'>
