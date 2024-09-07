@@ -38,10 +38,10 @@ function todo() {
                                     HTML
                                 </div>
                                 <div className={css}>
-                                    React
+                                    React.js
                                 </div>
                                 <div className={css}>
-                                    Tailwind
+                                    Tailwind CSS
                                 </div>
                             </div>
                         </div>

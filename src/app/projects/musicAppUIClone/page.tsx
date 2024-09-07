@@ -37,7 +37,7 @@ function netflixUIClone() {
                                     HTML
                                 </div>
                                 <div className={css}>
-                                    Tailwind
+                                    Tailwind CSS
                                 </div>
                                 <div className={css}>
                                 Aceternity UI

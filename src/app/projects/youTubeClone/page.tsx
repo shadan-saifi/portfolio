@@ -38,7 +38,7 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
                                     HTML
                                 </div>
                                 <div className={css}>
-                                    React
+                                    React.js
                                 </div>
                                 <div className={css}>
                                     React Hook Form
@@ -47,13 +47,13 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
                                     Redux
                                 </div>
                                 <div className={css}>
-                                    Tailwind
+                                    Tailwind CSS
                                 </div>
                                 <div className={css}>
                                     Shadcn
                                 </div>
                                 <div className={css}>
-                                    Videojs
+                                    Video.js
                                 </div>
                             </div>
 
@@ -62,9 +62,9 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
                             <div className="font-semibold text-lg">Backend-</div>
                             <div className="flex flex-wrap gap-4">
                                 <div className={css}>
-                                    Expressjs</div>
+                                    Express.js</div>
                                 <div className={css}>
-                                    Nodejs</div>
+                                    Node.js</div>
                                 <div className={css}>
                                     MongoDB</div>
                                 <div className={css}>

@@ -18,7 +18,7 @@ function Skills() {
                             Javascript
                         </div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
-                            React
+                            React.js
                         </div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
                             React Hook Form
@@ -27,13 +27,13 @@ function Skills() {
                             Redux
                         </div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
-                            Tailwind
+                            Tailwind CSS
                         </div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
                             Shadcn
                         </div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
-                            Videojs
+                            Video.js
                         </div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
                             Axios
@@ -45,9 +45,9 @@ function Skills() {
                     <div className="font-semibold text-lg">Backend-</div>
                     <div className="flex flex-wrap gap-4">
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
-                            Expressjs</div>
+                            Express.js</div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
-                            Nodejs</div>
+                            Node.js</div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
                             MongoDB</div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
@@ -71,10 +71,9 @@ function Skills() {
                             Git & Github</div>
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
                             Next.js</div>
+                       
                         <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
-                            Deployed frontend on Vercel </div>
-                        <div className="bg-main text-text dark:text-text inline-block py-2 px-4 rounded-sm  border-2 border-border dark:border-darkBorder shadow-dark">
-                            Deployed backend on Vercel&#39;s serverless architecture</div>
+                            Deployment on Vercel&#39;s serverless architecture (Frontend and Backend both)</div>
                     </div>
                 </div>
             </div>

@@ -5,10 +5,10 @@ function Contact() {
     return (
         <div className=" p-8 md:p-16 bg-overlay text-darkText dark:text-darkText">
             <div className="text-4xl font-extrabold text-center mb-12">
-                <p>Let's Connect!</p>
+                <p>Let&apos;s Connect!</p>
             </div>
             <div className="text-lg text-center mb-12 mx-44">
-                Whether you're interested in collaborating on exciting projects, have a question, or just want to chat about web development, I’m always open to new opportunities and connections.
+                Whether you&apos;re interested in collaborating on exciting projects, have a question, or just want to chat about web development, I am always open to new opportunities and connections.
             </div>
 
             <div className="max-w-3xl mx-auto  p-6 rounded-lg shadow-2xl">
@@ -28,9 +28,9 @@ function Contact() {
                     Why Reach Out?
                 </div>
                 <ul className="list-inside list-disc space-y-3  text-lg">
-                    <li><b>Collaborate:</b> I’m eager to work on innovative projects that make a difference.</li>
-                    <li><b>Consult:</b> Need advice on a web development challenge? I’m here to help.</li>
-                    <li><b>Connect:</b> Let’s network and explore ideas together.</li>
+                    <li><b>Collaborate:</b> I am eager to work on innovative projects that make a difference.</li>
+                    <li><b>Consult:</b> Need advice on a web development challenge? I am here to help.</li>
+                    <li><b>Connect:</b> Let&apos;s network and explore ideas together.</li>
                 </ul>
             </div>
 
