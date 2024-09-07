@@ -7,19 +7,15 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
     return (
         <div className="min-h-screen w-full ">
 
-            <div className="max-h-[400px] aspect-video border-2 border-border dark:border-darkBorder shadow-2xl  dark:shadow-main float-right mt-48 m-16">
-                <img src="/you tube clone.png" alt="image" className='h-full w-full shadow-2xl' />
-            </div>
-
             <div className=" pt-48 p-8">
-                <div className='font-bold text-5xl px-8 pb-4'>YouTube Clone</div>
+                <div className='font-bold text-5xl px-8 pb-4'>Authentication App</div>
 
-                <p className="p-8 pb-0 leading-loose">This video streaming application integrates robust authentication mechanisms, employing <b>bcrypt</b> for hashing and <b>JSON Web Token</b> for secure access, ensuring user privacy and security. Dive into a world of interactive features, including <b>video filtering, CRUD operations, likes, comments, playlists, subscriptions, and fuzzy search</b>, all easily accessible via an intuitive dashboard. Utilizing <b>React, Redux, Tailwind, shadcn, and videojs for the frontend, and Express & Node.js for the backend, alongside MongoDB for database management and axios for APIs</b>, our platform guarantees a smooth and responsive user experience. With added <b>functionalities</b> such as <b>playlist creation, video liking, commenting, subscribing, and seamless login/signup</b> processes using <b>React Hook Form,</b> our application caters to every user&#39;s needs. Furthermore, with <b>deployment on Vercel&#39;s serverless architecture,</b> expect unparalleled performance and accessibility. Welcome to the ultimate video streaming experience, where every feature enhances your journey through digital entertainment.</p>
+                <p className="p-8 pb-0 leading-loose">This project implements a robust authentication system using the <b>MERN stack</b>, with <b>MySQL</b> integrated as the database instead of MongoDB. Utilizing Express and <b>Node.js</b> for backend logic, it ensures secure and efficient authentication processes. The frontend is built with React, offering a seamless user interface and interaction. By incorporating MySQL for relational data storage, the project demonstrates the capability to blend traditional SQL databases with modern full-stack frameworks. Overall, it highlights expertise in creating secure and scalable authentication solutions within a contemporary tech stack.</p>
                 <div className='py-4 text underline'>
                 </div>
                 <Button variant="neutral" className="text-lg m-8 ">
-                    <Link href='https://youtube-twitter-app-frontend.vercel.app/'>
-                        Click here to open the project.
+                    <Link href='https://github.com/shadan-saifi/authFullstackMERN-MySQL'>
+                        Click here to see code on Github.
                     </Link>
                 </Button>
                 <div className="px-8 space-y-8">
@@ -41,19 +37,7 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
                                     React
                                 </div>
                                 <div className={css}>
-                                    React Hook Form
-                                </div>
-                                <div className={css}>
-                                    Redux
-                                </div>
-                                <div className={css}>
                                     Tailwind
-                                </div>
-                                <div className={css}>
-                                    Shadcn
-                                </div>
-                                <div className={css}>
-                                    Videojs
                                 </div>
                             </div>
 
@@ -66,7 +50,7 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
                                 <div className={css}>
                                     Nodejs</div>
                                 <div className={css}>
-                                    MongoDB</div>
+                                    MySQL</div>
                                 <div className={css}>
                                     Bcrypt</div>
                                 <div className={css}>
@@ -80,10 +64,6 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
                             <div className="flex flex-wrap gap-4">
                                 <div className={css}>
                                     Git & Github</div>
-                                <div className={css}>
-                                    Deployed frontend on Vercel </div>
-                                <div className={css}>
-                                    Deployed backend on Vercel&#39;s serverless architecture</div>
                             </div>
                         </div>
                     </div>
@@ -94,22 +74,6 @@ const css:string="inline-block py-2 px-4 rounded-sm  border-2 border-border dark
                                 Authentication</div>
                                 <div className={css}>
                                 SignIn & Register User</div>
-                                <div className={css}>
-                                Make Channel </div>
-                                <div className={css}>
-                                Upload & Delete your Video</div>
-                                <div className={css}>
-                                CRUD on Video & Channel Details </div>
-                                <div className={css}>
-                                CRUD on Comments & Replies</div>
-                                <div className={css}>
-                                Like & Unlike video</div>
-                                <div className={css}>
-                                Search Videos by Detail or Description</div>
-                                <div className={css}>
-                                Search Channel Videos</div>
-                                <div className={css}>
-                                Get Channel Statistics</div>
                         </div>
                     </div>
                 </div>
